@@ -1,0 +1,14 @@
+.bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.heading {
+  color: #00e7ff;
+  font-size: 50px;
+  font-weight: bold;
+}
